@@ -2,8 +2,8 @@
 
 Calculator is a basic calculator application. It is a based on winform application: it can add, subtract, multiply and divide any digit numbers.
 <br>
-<video src="[https://assets.codepen.io/6093409/hubspot-video-example.mp4](https://github.com/yash-nagi/Project-Calculator/assets/121717388/3e193b2a-3e30-4de9-bd8d-0eed72b6a0eb
-)" controls width="300">
+<video src="https://github.com/yash-nagi/Project-Calculator/assets/121717388/3e193b2a-3e30-4de9-bd8d-0eed72b6a0eb
+" controls width="300">
 <br>
 <h1>Functionality</h1>
     <ul><li>Addition</li>
